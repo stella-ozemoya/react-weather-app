@@ -49,3 +49,7 @@
     line-height: 1;
     top: -34px  
 }
+
+.WeatherTemperature a {
+    text-decoration: none;
+}
